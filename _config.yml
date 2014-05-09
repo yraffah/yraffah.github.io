@@ -1,9 +1,9 @@
 # Site settings
 name: Yousef Raffa's Blog
-title: My personal world
-email: yraffah@gmail.com
-description: "Mac, Web, Photography, Geocaching, and Amateur Radio"
-baseurl: ""
+title: A Hejazi in Saudi
+#email: yraffah@gmail.com
+description: "A national Saudi entrepreneur living in Jeddah (Currently in Madina). I talk about Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
+baseurl: "http://yraffah.com"
 url: "http://yraffah.com"
 
 # Build settings
@@ -11,4 +11,5 @@ markdown: kramdown
 permalinks: pretty
 timezone: AST
 lsi: TRUE
-
+paginate: 10
+relative_permalinks: false
