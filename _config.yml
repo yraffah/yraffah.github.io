@@ -5,11 +5,17 @@ title: A Hejazi in Saudi
 description: "A national Saudi entrepreneur living in Jeddah (Currently in Madina). I talk about entrepreneurship in Saudi, Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
 baseurl: "http://yraffah.com"
 url: "http://yraffah.com"
+highlighter: pygments
+timezone: AST
+lsi: false
+paginate: 10
 
 # Build settings
 markdown: kramdown
 permalinks: pretty
-timezone: AST
-lsi: TRUE
-paginate: 10
-relative_permalinks: false
+
+# Username for Github and Twitter
+username: yraffah
+
+# relative_permalinks: false
+#excerpt_separator: "Read on &rarr;"
