@@ -10,7 +10,7 @@ Here I am back again to blogging after stopping for several years. I'm still not
 As you can see, it is still a beta move and I have a lot remaining. Therefore, I thought of having it listed down so I can mark whatever is done once I'm through with it. Here goes the list:
 
 1. Migrate Octopress posts
-2. Migrate old Drupal posts
+2. Migrate old Drupal posts (Got to fix the current issue with the Drupal install!)
 3. Comments (not sure if I really want it though)
 4. Contact Form
 5. Design
