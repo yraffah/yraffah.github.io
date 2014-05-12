@@ -3,7 +3,7 @@ layout: post
 title: "My first try at making bagels"
 date: 2012-03-28
 tags: [food, health, cooking]
-
+published: true
 ---
 
 ## Cooking is a passion
@@ -21,7 +21,7 @@ The experience was great and joy was covering the whole process. Yes, it wasn't 
 <a href="{{ site.url }}/assets/IMG_2989.JPG"><img  style="display: block;margin: 0 auto;margin-bottom:20px;border:1px solid #e8e8e8;" src="{{ site.url }}/assets/IMG_2989.JPG" alt="Boiling the Bagels" width="450px" /></a>
 *Boiling the Bagels*
 
-<a href="/assets/IMG_3001.JPG"><img  style="display: block;margin: 0 auto;margin-bottom:20px;border:1px solid #e8e8e8;" src="/assets/IMG_3001.JPG" alt="The final product" width="450px" /></a>
+<a href="{{ site.url }}/assets/IMG_3001.JPG"><img  style="display: block;margin: 0 auto;margin-bottom:20px;border:1px solid #e8e8e8;" src="{{ site.url }}/assets/IMG_3001.JPG" alt="The final product" width="450px" /></a>
 *The final product*
 
 <a href="{{{ site.url }}/assets/IMG_3005.JPG"><img  style="display: block;margin: 0 auto;margin-bottom:20px;border:1px solid #e8e8e8;" src="{{ site.url }}/assets/IMG_3005.JPG" alt="Sliced Bagel" width="450px" /></a>
