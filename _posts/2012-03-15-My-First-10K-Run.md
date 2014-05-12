@@ -1,4 +1,5 @@
 ---
+layout: post
 title: My first 10K run
 Date: 15 March, 2012
 tags: running
