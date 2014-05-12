@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Saudi Pilot Around The World"
+title: "A saudi pilot around the world"
 date: 2012-03-18
 tags: [family, inspiration, aviation]
 
@@ -16,7 +16,7 @@ I still remember the electronic pieces he had on his cycling bikes, shoes, and w
 
 This time he is doing something else; he will fly around the world in 40 days on his own aircraft. The initial plan was to fly solo but I guess certain conditions didn't allow such a thing so he is taking someone with him.
 
-He had to modify the plane a bit by installing extra fuel tanks in the rear passengers' compartment which should give him extra milage to fly without stopping for fuel. The departure will be most likely from ~~Al-Madinah Al Monawara~~ (Europe) then he will take either the eastbound or westbound depending on the weather conditions, etc..
+He had to modify the plane a bit by installing extra fuel tanks in the rear passengers' compartment which should give him extra milage to fly without stopping for fuel. The departure will be most likely from ~~Al-Madinah Al Munawara~~ (Europe) then he will take either the eastbound or westbound depending on the weather conditions, etc..
 
 This video has a quick interview with him in the first few minutes.
 
