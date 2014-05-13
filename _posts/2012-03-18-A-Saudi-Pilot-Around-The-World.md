@@ -2,10 +2,7 @@
 layout: post
 title: "A saudi pilot around the world"
 date: 2012-03-18
-<!--categories:
-- family-->
 tags: [family, inspiration, aviation]
-<!--published: true-->
 ---
 
 ## A retired saudi pilot
