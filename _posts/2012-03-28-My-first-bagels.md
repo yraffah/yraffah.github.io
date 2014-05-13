@@ -2,7 +2,9 @@
 layout: post
 title: "My first try at making bagels"
 date: 2012-03-28
-tags: [food, health, cooking]
+categories:
+- Cooking
+tags: [food, health]
 published: true
 ---
 
