@@ -3,8 +3,8 @@ layout: post
 title: "Rest then run"
 date: 2012-03-24 11:13
 published: true
-categories:
-- Running
+<!--categories:
+- Running-->
 tags: [health, tex]
 
 ---
