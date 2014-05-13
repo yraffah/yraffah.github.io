@@ -4,7 +4,7 @@ title: "A saudi pilot around the world"
 date: 2012-03-18
 <!--categories:
 - family-->
-<!--tags: [family, inspiration, aviation]-->
+tags: [family, inspiration, aviation]
 <!--published: true-->
 ---
 
