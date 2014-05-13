@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Migrating to Jekyll
-categories:
-- web
+<!--categories:
+- web-->
 tags: jekyll,blog
 published: true
 ---

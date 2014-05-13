@@ -2,8 +2,8 @@
 layout: post
 title: My first 10K run
 Date: 15 March, 2012
-categories:
-- Running
+<!--categories:
+- Running-->
 tags: [health]
 ---
 
