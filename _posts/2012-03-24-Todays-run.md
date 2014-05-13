@@ -5,6 +5,7 @@ date: 2012-03-24 11:13
 category: running
 tags: [health, tex]
 image: 2012-03-24-2.00.42AM.png
+description: After my last extremely exhausting 10K run, which was my first 10K; I had to take a good rest to give my body a good chance to recover. Tonight's run was the first run after the 10K milestone and it didn't start well.
 ---
 
 After my last extremely exhausting [10K run]({% post_url 2012-03-15-My-first-10K-run %}), which was my first 10K; I had to take a good rest to give my body a good chance to recover. Tonight's run was the first run after the 10K milestone and it didn't start well.
