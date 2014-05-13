@@ -2,7 +2,8 @@
 layout: post
 title: "My first try at making bagels"
 date: 2012-03-28
-tags: [food, health]
+category: food
+tags: [cooking, health]
 ---
 
 ## Cooking is a passion

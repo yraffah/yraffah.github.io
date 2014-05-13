@@ -2,6 +2,7 @@
 layout: post
 title: "Rest then run"
 date: 2012-03-24 11:13
+category: running
 tags: [health, tex]
 ---
 

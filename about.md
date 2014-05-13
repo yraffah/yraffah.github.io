@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Personal Info ##
 
-My name is Yousef Raffa, a Saudi born and lives in Jeddah, Saudi Arabia and I’m married to a lovely wife who ~~is working~~ used to work as a KG teacher. We have a cute girl named Maryam and were recently blessed with Yahya, which is an Arabic name for John!.
+My name is Yousef Raffa, a Saudi born and lives in Jeddah, Saudi Arabia and I’m married to a lovely wife who <s>is working</s> used to work as a KG teacher. We have a cute girl named Maryam and were recently blessed with Yahya, which is an Arabic name for John!.
 
 I’m very much interested in web technologies, gadgets, computers, and IT in general, yet, I’m mainly focused on security, networking and operating systems. I’ve been working with Linux and FreeBSD for more than 10 years now, in addition to other commercial Unices like Sun Solaris, HP-UX and Mac OS X. My favourite operating systems are FreeBSD and Mac OS X, as I use both on my personal computers.
 
@@ -22,7 +22,7 @@ I&#8217;m also a photographer with a Nikon D200 and an [Exclusive contributor at
 
 You can see some of my old work on [flickr](http://www.flickr.com/yraffah/) as well but [iStockphoto.com](iStockphoto.com) has my recent, 4 years old, projects :). I also started a Photography podcast in Arabic named Photon@t, which is targeting both beginner as well as experienced photographers which can be found on iTunes.
 
-Recently I got interested in telecommunication in the form of Amateur Radio as I found out that there is an official local community here in Saudi Arabia and I&#8217;m ~~planning to becoming a licensed member~~ Class A licensed. I also have an [Arabic blog](http://hz1yr.com/) on the same matter where I have links to some articles that I translated and published.
+Recently I got interested in telecommunication in the form of Amateur Radio as I found out that there is an official local community here in Saudi Arabia and I&#8217;m <s>planning to becoming a licensed member</s> Class A licensed. I also have an [Arabic blog](http://hz1yr.com/) on the same matter where I have links to some articles that I translated and published.
 
 Beside technical things I admire healthy living lifestyles. Therefore, running and jogging is part of my life, especially with *Tex*, my [Rottweiler](http://en.wikipedia.org/wiki/Rottweiler).
 
