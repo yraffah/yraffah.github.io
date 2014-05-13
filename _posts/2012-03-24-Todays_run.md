@@ -2,10 +2,10 @@
 layout: post
 title: "Rest then run"
 date: 2012-03-24 11:13
-published: true
+<!--published: true-->
 <!--categories:
 - Running-->
-tags: [health, tex]
+<!--tags: [health, tex]-->
 
 ---
 

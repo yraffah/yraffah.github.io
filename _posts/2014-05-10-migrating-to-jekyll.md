@@ -3,8 +3,8 @@ layout: post
 title: Migrating to Jekyll
 <!--categories:
 - web-->
-tags: jekyll,blog
-published: true
+<!--tags: [jekyll,blog]
+published: true-->
 ---
 
 Here I am back again to blogging after stopping for several years. I'm still not through with everything yet but I'm currently migrating my old *Drupal* blog as well as my recent *Octopress" to *Jekyll*, the greatest text-file-based blog.
