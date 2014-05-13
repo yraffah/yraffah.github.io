@@ -21,9 +21,7 @@ markdown: kramdown
   # input: GFM
   
 permalinks: pretty
-# excerpt_separator: "\n\n"
+excerpt_separator: "\n\n"
 
 # Username for Github and Twitter
 username: yraffah
-
-# relative_permalinks: false
