@@ -12,7 +12,7 @@ After my last extremely exhausting [10K run]({% post_url 2012-03-15-My-first-10K
 
 ## The Pain
 
-[![image](http://yraffah.com/assets/2012-03-24-2.00.42AM.png "Tonight's Run")](http://yraffah.com/assets/2012-03-24-2.00.42AM.png)
+[![image](http://yraffah.com/assets/2012-03-24-2.00.42AM.png "Tonight's Run")](http://yraffah.com/assets/2012-03-24-2.00.42AM.png =250x)
 
 While warming up, I started to feel some pain in my calves and for the first time in my knees. To be very frank I got worried and told myself "Let me give it few more minutes, if it didn't get better, I will stop". Luckily it did and I was able to finish my run.
 
