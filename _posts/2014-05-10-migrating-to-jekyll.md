@@ -15,5 +15,6 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 3. Comments (not sure if I really want it though)
 4. Contact Form
 5. Design
+6. <s>Support for Twitter Cards</s>
 
 Got some suggestions? Feel free to tweet it over to [@Yraffah](http://twitter.com/yraffah "Yousef Raffa")

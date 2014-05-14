@@ -16,15 +16,16 @@ In addition, Geocaching plays a good role in my life as I’m one of the core me
 
 [![Here is my current status](http://img.geocaching.com/stats/img.aspx?txt=View+my+profile&amp;uid=94f3f134-030d-49b0-9d31-53cd39df0c1e "Here is my current status")](http://www.geocaching.com/profile/?guid=94f3f134-030d-49b0-9d31-53cd39df0c1e)
 
-<a href="http://refer.istockphoto.com/ta.php?lc=060842040928004653&atid=81742%7CBannerID%3D81742%7CReferralMethod%3DBanner&url=http%3A%2F%2Fwww.istockphoto.com"><img src="http://refer.istockphoto.com/traffic_record.php?lc=060842040928004653&atid=81742%7CBannerID%3D81742%7CReferralMethod%3DBanner" border="0" style="float:right;margin: 0 5px 10px 25px;"/>
+<iframe style='width:240px;height:396px;float:right;margin: 0 5px 10px 25px;' width='240' height='396' border='0' frameborder='0' src='http://contributors.gettyimages.com/artist-toolkit/WebBanner.aspx?id=750'></iframe>
 
-I&#8217;m also a photographer with a Nikon D200 and an [Exclusive contributor at iStockphoto.com](http://refer.istockphoto.com/ta.php?lc=060842042431004653&amp;atid=81741%7CBannerID%3D81741%7CReferralMethod%3DLink&amp;url=http%3A%2F%2Fwww.istockphoto.com%2Fsearch%2Fportfolio%2F4026288%2Fsource%2Fref)
+I&#8217;m also a photographer with a Nikon D200 and an [Exclusive contributor at iStockphoto.com](http://www.linkconnector.com/ta.php?lc=065212056961005237&url=http%3A//www.istockphoto.com/search/portfolio/4026288)
 
-You can see some of my old work on [flickr](http://www.flickr.com/yraffah/) as well but [iStockphoto.com](iStockphoto.com) has my recent, 4 years old, projects :). I also started a Photography podcast in Arabic named Photon@t, which is targeting both beginner as well as experienced photographers which can be found on iTunes.
+You can see some of my old work on [flickr](http://www.flickr.com/yraffah/) as well but [iStockphoto.com](http://www.linkconnector.com/ta.php?lc=065212056961005237&url=http%3A//www.istockphoto.com/search/portfolio/4026288) has my recent, 4 years old, projects :). I also started a Photography podcast in Arabic named Photon@t, which is targeting both beginner as well as experienced photographers which can be found on iTunes.
 
 Recently I got interested in telecommunication in the form of Amateur Radio as I found out that there is an official local community here in Saudi Arabia and I&#8217;m <s>planning to becoming a licensed member</s> Class A licensed. I also have an [Arabic blog](http://hz1yr.com/) on the same matter where I have links to some articles that I translated and published.
 
 Beside technical things I admire healthy living lifestyles. Therefore, running and jogging is part of my life, especially with *Tex*, my [Rottweiler](http://en.wikipedia.org/wiki/Rottweiler).
+
 
 ## Work Experience ##
 
