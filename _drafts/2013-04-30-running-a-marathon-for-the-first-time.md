@@ -4,11 +4,11 @@ title: Running a marathon for the first time
 date: 2013-04-30
 category: running
 tags: [marathon]
-description: 
+description: After discovering I had very high levels of low density lipoprotein (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the *mankind* :).
 image: 2013-04-30-mobily-marathon.jpg
 ---
 
-After discovering I had very high levels of [low density lipoprotein](http://en.wikipedia.org/wiki/Low-density_lipoprotein) (LDL Cholestrol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the *mankind* :). Since then, I started changing my eating and cooking habits, in addition to a little bit of cardio exercises, basically walking and jogging.
+After discovering I had very high levels of [low density lipoprotein](http://en.wikipedia.org/wiki/Low-density_lipoprotein) (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the *mankind* :). Since then, I started changing my eating and cooking habits, in addition to a little bit of cardio exercises, basically walking and jogging.
 
 Fast forward to one and half years after that, I started practicing for the yearly half-marathon race "[Jeddah Marathon](http://jeddah-marathon.com/)" with a very enthusiastic team lead by [Ali Sheneamer](https://twitter.com/sheneamer).
 
