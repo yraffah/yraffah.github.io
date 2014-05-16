@@ -16,5 +16,6 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 4. Contact Form
 5. Design
 6. <s>Support for Twitter Cards</s>
+7. Tweet a post
 
 Got some suggestions? Feel free to tweet it over to [@Yraffah](http://twitter.com/yraffah "Yousef Raffa")
