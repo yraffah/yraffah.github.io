@@ -28,7 +28,17 @@ Next, the number badges distribution channels. One of these channels was in [Red
 
 Then, and just as referenced earlier, during the start of the race, there were few hundreds of *alien participants* that organizers has brought, just for the *show* and media, in order to show the public that there were thousands of participants. In fact, this happened even last year according to Ali's feedback. I saw them myself, as soon as the race started, then ran like crazy for cameras and photographers. 20 or 30 meters later then took a left turn and hopped into their busses! That is pathetic and very non-ethical, IMHO[^2].
 
-Finally, and that was their biggest fail. After an hour of the race start, police and organizers **stopped protecting and guarding the roads!** This means all waiting cars were free to go and so they did. They had to pass between running participants, which was really stupid and *dangerous*. Imagine an outrageous driver passing by you while you were running in the middle of the road! That is just **insane**. Initially we didn't understand why and some participants didn't want to continue the race. I told myself I have to finish it no matter what and kept moving forward. 
+Finally, and that was their biggest fail. After an hour had passed in the race, police and organizers **stopped protecting and guarding the roads!** That lead to all waiting cars were free to go and so they did. They had to pass between running participants, which was really stupid and *dangerous*. Imagine an outrageous driver passing by you while you were running in the middle of the road! That is just **insane**. Initially we didn't understand why and some participants didn't want to continue the race. I told myself that I had to finish it no matter what and kept moving forward. We figured out later that they had to do that as the race, according to their understanding, was finished since the first place winner had already passed the finish line. In other words, they don't give a \*\*\*\* about the rest.
+
+Nevertheless, I kept on running and running. Yes, I did remember the scene when [Forrest Gump's](http://en.wikipedia.org/wiki/Forrest_Gump) girlfriend was yelling at him: *"Run Forrest, Run!"*. All my energy was drone and I was worn out. I had to slow down every while. The good thing was our smart trainer, Ali[^1], took us to the last 5K of the race on our last training 5 days before the race. This gave us some insights on the area and made us more familiar with it. During the race, this was very accommodating because we were familiar with the area and we know we have less than 5K to the finish line. Personally, this was a very good motive for me and it kept me pushing myself until I saw the finish line.
+
+## The finish line
+Yes! I made it to the finish line and just completed my first half marathon ever in my life. What an unforgettable experience this is. It was challenging, inspiring, exhausting, and I got to know and meet a lot of great, exciting, and energetic gentlemen.
+
+My time for the half marathon was **2:50:xx**. Very very exhausting especially for a first timer like myself. Yet, it was fabulous. I didn't really feel any major pain in my muscles, however, the minute I sat, it was so difficult to get up and the pain was building up. I had to replenish and fill my body with water and essential minerals. Luckily I brought a [*Gatorade*](http://en.wikipedia.org/wiki/Gatorade) bottle and kept it in the car.
+
+## What's next?
+I will definitely do it again some day and maybe try and push myself to a complete marathon (42Km).
 
 [^1]: [@Sheneamer](https://twitter.com/sheneamer)
 [^2]: IMHO: In my humble opinion
