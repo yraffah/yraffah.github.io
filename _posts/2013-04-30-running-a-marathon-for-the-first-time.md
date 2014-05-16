@@ -32,6 +32,8 @@ Finally, and that was their biggest fail. After an hour had passed in the race, 
 
 Nevertheless, I kept on running and running. Yes, I did remember the scene when [Forrest Gump's](http://en.wikipedia.org/wiki/Forrest_Gump) girlfriend was yelling at him: *"Run Forrest, Run!"*. All my energy was drone and I was worn out. I had to slow down every while. The good thing was our smart trainer, Ali[^1], took us to the last 5K of the race on our last training 5 days before the race. This gave us some insights on the area and made us more familiar with it. During the race, this was very accommodating because we were familiar with the area and we know we have less than 5K to the finish line. Personally, this was a very good motive for me and it kept me pushing myself until I saw the finish line.
 
+<a href="http://yraffah.com/assets/2013-04-30-mobily-marathon.jpg"><img src="http://yraffah.com/assets/2013-04-30-mobily-marathon.jpg" alt="At the start line. I'm on the front row third one from left" width="500" style="display:block;margin:auto;" /></a>
+
 ## The finish line
 Yes! I made it to the finish line and just completed my first half marathon ever in my life. What an unforgettable experience this is. It was challenging, inspiring, exhausting, and I got to know and meet a lot of great, exciting, and energetic gentlemen.
 
