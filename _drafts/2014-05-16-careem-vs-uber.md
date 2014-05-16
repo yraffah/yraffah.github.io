@@ -4,8 +4,8 @@ title: Careem VS Uber, my personal experience
 category: Lifestyle
 tags: [apps, services, cars]
 date: 2014-05-16
-description:
-image:
+description: Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong*.
+image: careem-prize.jpg
 
 ---
 
