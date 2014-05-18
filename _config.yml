@@ -7,7 +7,8 @@ url: "http://yraffah.com"
 highlighter: pygments
 timezone: AST
 lsi: false
-paginate: 10
+paginate: 5
+
 
 # Build settings
 markdown: kramdown
