@@ -1,0 +1,9 @@
+---
+layout: post
+title: !binary |-
+  2KfZhNit2YTZgtipINmg2aE=
+created: 1213842236
+---
+<div style="direction: rtl; text-align: right;"><p style="direction: rtl; text-align: right;">الروابط التي ذكرت في الحلقة:</p>    <p style="text-align: center;direction: rtl;"><a href="http://www.flickr.com/photos/7876001@N04/2581407352/"><img height="132" width="240" alt="موقع جمعية الثقافة والفنون" src="http://farm4.static.flickr.com/3262/2581407352_224d04f41c_m.jpg" /></a></p>    <p style="direction: rtl; text-align: right;">موقع جمعية الثقافة والفنون على جووجل إيرث</p>    <p style="direction: rtl; text-align: right;">أعداد <a href="http://phsite.org/main/node/2">مجلة الزاوية</a> من <a href="http://phsite.org/main/">موقع بيت الفوتوغرافيين</a>:</p>    <p style="direction: rtl; text-align: right;">&nbsp;</p>    <ol>     <li><a href="http://phsite.org/main/node/4">العدد الأول</a></li>      <li><a href="http://phsite.org/main/node/5">العدد الثاني</a></li>      <li><a href="http://phsite.org/main/node/6">العدد الثالث</a></li>      <li><a href="http://phsite.org/main/node/7">العدد الرابع</a></li>      <li><a href="http://phsite.org/main/node/16">العدد الخامس</a></li>   </ol>    <p style="direction: rtl; text-align: right;">موقع <a href="http://www.zinio.com">Zinio</a> للإشتراك في النسخة الإلكترونية من بعض مجلات التصوير: <a href="http://www.zinio.com">http://www.zinio.com</a></p>    <p style="direction: rtl; text-align: right;">أنا شخصيا مشترك في Popular Photography &amp; Imaging و مجلة Shutterbug و American Photon</p>    <p style="direction: rtl; text-align: right;">&nbsp;</p>    <p style="direction: rtl; text-align: right;">كما يمكنكم الإشتراك في بودكاست فوتونات PHOTONAT من خلال برنامج الـ iTunes و البحث في متجر الـ iTunes عن فوتونات أو PHOTON@ أو <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=283082015">الضغط هنا مباشرة</a></p></div><p>&nbsp;</p>
+<!--break-->
+<p>&nbsp;</p>

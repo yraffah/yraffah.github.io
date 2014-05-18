@@ -1,0 +1,7 @@
+---
+layout: post
+title: !binary |-
+  2YTZgtin2KEg2YXYr9mI2YbZiiDYp9mE2LrYsdio2YrYqQ==
+created: 1213203663
+---
+<p style="text-align: center;direction: rtl;"><a href="http://www.flickr.com/photos/7876001@N04/2570475684/"><img height="391" width="308" alt="Fouad Alfarhan" src="http://farm4.static.flickr.com/3257/2570475684_ef3c66292b.jpg" /></a></p> <p style="direction: rtl; text-align: right;">الثلاثاء ١٠ يونيو ٢٠٠٨م كان لقاء مدوني الغربية في جدة و تحديدا في مقهى سكند كب التحلية حيث حضر بعض المدونين مثل <a href="http://www.alfarhan.org">فؤاد الفرحان</a> و <a href="http://bandar.raffah.com/wp">بندر رفه</a> و <a href="http://blog.milyani.com">محمد ملياني</a> و <a href="http://ar6bon.ws/">مهند الغامدي</a> (أرطبون) و لقد سررت بالتعرف على <span style="line-height: 25px;"><a href="http://abulara.wordpress.com">سلطان العتيبي</a></span> <span style="font-family: Verdana; font-size: 18px; font-weight: bold; line-height: 25px;"><span style="font-family: Helvetica; font-size: 12px; font-weight: normal;">(</span><span style="font-family: Helvetica; font-size: 12px; font-weight: normal; line-height: normal;">أبو لارا) و <a href="http://msgso.wordpress.com/">محمد سعد</a>، كما حضر اللقاء بعض المهتمين بشأن التدوين مثل يوسف عمر (المعروف باسم يوسف ماك) و هاشم الرفاعي.</span></span></p> <p style="direction: rtl; text-align: right;"><a href="http://www.flickr.com/photos/yraffah/sets/72157605411722285/">و هذه بعض الصور لتغطية الحدث</a>.</p>

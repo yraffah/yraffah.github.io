@@ -1,0 +1,28 @@
+---
+layout: post
+title: !binary |-
+  2KrYtdmI2YrYsSDYp9mE2K/YqNin2KjYp9iq
+created: 1239529782
+---
+<p style="direction: rtl; text-align: right;"><a href="http://www.flickr.com/photos/yraffah/3433385103/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3374/3433385103_afc6b085f8_m.jpg" width="240" height="135" alt="GSX-R 600" name="3433385103_afc6b085f8_m.jpg" style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; margin-left: 5px; float: right;" /></a>قمت الخميس الماضي مع مجموعة من المصورين بتصوير بعض الأصدقاء من راكبي الدراجات النارية (دبابات) علاء و مَيسرة في الصباح و في أكثر من موقع. كان الموقع الأول في حي الروضة و في مبنىً خاص داخل إحدى صالات المبنى. التجربة كانت جدا جميلة وبصحبة شخصين رائعين استحملونا واستحملوا الحر والناموس وأمور أخرى :) لكننا في النهاية استمتعنا جميعا بذلك اليوم.</p>
+<p style="direction: rtl; text-align: right;">ثم إنتقلنا إلى الموقع الثاني و كان في مواقف مركز رِد سي مول. و قد اتخذنا موقعا بعيداً عن إزدحام السيارات و زوار السوق لكن ذلك طبعا لم يخلو من المتطفلين و المتطلعين :) لكننا استمتعنا وكان هذا أهم ما في الموضوع.</p>
+<!--break-->
+<p style="direction: rtl; text-align: right;"><br /></p>
+<p style="direction: rtl; text-align: right;"><br /></p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3433374631/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3325/3433374631_35c0996d09_m.jpg" width="240" height="228" alt="GSX-R 600" /></a> <a href="http://www.flickr.com/photos/yraffah/3433377615/" title="Hayabusa and GSX-R 600 by Yousef Raffah, on Flickr"></a></p>
+<p style="direction: rtl; text-align: center;">الخصمين <a href="http://en.wikipedia.org/wiki/Suzuki_GSX1300R">Hayabusa</a> و <a href="http://en.wikipedia.org/wiki/Suzuki_GSX-R600">GSX-R600</a></p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3433377615/" title="Hayabusa and GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3577/3433377615_504578c208_m.jpg" width="240" height="135" alt="Hayabusa and GSX-R 600" /></a> <a href="http://www.flickr.com/photos/yraffah/3434185908/" title="Hayabusa and GSX-R 600 by Yousef Raffah, on Flickr"></a></p>
+<p style="direction: rtl; text-align: center;">الصديقين مَيسرة و علاء</p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3434185908/" title="Hayabusa and GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3313/3434185908_727430a640_m.jpg" width="240" height="135" alt="Hayabusa and GSX-R 600" /></a></p>
+<p style="direction: rtl; text-align: center;"><img src="http://farm4.static.flickr.com/3391/3434183484_34d52370ba_m.jpg" width="161" height="240" alt="Hayabusa" /><br /></p>
+<p style="direction: rtl; text-align: right;">في مواقف رِد سي مول</p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3434186624/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3600/3434186624_cb9736b89e_m.jpg" width="161" height="240" alt="GSX-R 600" /></a> <a href="http://www.flickr.com/photos/yraffah/3433380479/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3547/3433380479_f745168926_m.jpg" width="240" height="161" alt="GSX-R 600" /></a> <a href="http://www.flickr.com/photos/yraffah/3434187402/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3600/3434187402_dc36095633_m.jpg" width="240" height="161" alt="GSX-R 600" /></a><br /></p>
+<p style="direction: rtl; text-align: center;">و هذه لقطة سيلويت</p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3433380737/" title="Hayabusa - silhouette by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3596/3433380737_5c3b6d7aab_m.jpg" width="161" height="240" alt="Hayabusa - silhouette" /></a><br /></p>
+<p style="direction: rtl; text-align: center;">بورتريه لـ علاء والدباب <a href="http://en.wikipedia.org/wiki/Suzuki_GSX1300R">Hayabusa</a></p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3433382735/" title="Hayabusa by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3302/3433382735_7144317b39.jpg" width="335" height="500" alt="Hayabusa" /></a><br /></p>
+<p style="direction: rtl; text-align: center;">بالأبيض والأسود</p>
+<p style="direction: rtl; text-align: center;"><a href="http://www.flickr.com/photos/yraffah/3433385103/" title="GSX-R 600 by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3374/3433385103_afc6b085f8_m.jpg" width="240" height="135" alt="GSX-R 600" /></a><br /></p>
+<p style="direction: rtl; text-align: right;">و هنا بعض من صور الشباب <a href="http://www.flickr.com/photos/27876659@N04/">عبدالله حريري</a> و <a href="http://www.flickr.com/photos/19712463@N05/">إبراهيم عجلان</a> بتقنية التطويق (Panning). طبعا أنا لم أستطع تصوير الدبابات بهذه الطريقة لأني كنت قائد المركبة :)</p>
+<p style="text-align: center;direction: rtl;"><a href=""><img src="http://farm4.static.flickr.com/3657/3429328985_dbe2129712.jpg" /></a> <a href="http://www.flickr.com/photos/19712463@N05/3432407692/"><img src="http://farm4.static.flickr.com/3354/3432407692_afb65b9afc.jpg" /></a><br /></p>
+<p style="direction: rtl; text-align: right;"><br /></p>
