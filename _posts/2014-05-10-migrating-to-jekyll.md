@@ -18,5 +18,6 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 6. <s>Support for Twitter Cards</s>
 7. Tweet a post
 8. Fix imported posts
+9. Fix header links (About, and Contact) layout
 
 Got some suggestions? Feel free to tweet it over to [@Yraffah](http://twitter.com/yraffah "Yousef Raffa")
