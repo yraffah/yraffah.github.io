@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
+
 <div class="post">
-
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  </article>
-  
+</div>
+
   <!-- Disqus comments begin here -->
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -28,4 +24,20 @@ layout: default
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!-- Disqus comments end here -->
+	  
+	  
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

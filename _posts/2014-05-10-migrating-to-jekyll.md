@@ -5,7 +5,7 @@ category: blog
 tags: [jekyll,blog]
 ---
 
-Here I am back again to blogging after stopping for several years. I'm still not through with everything yet but I'm currently migrating my old *Drupal* blog as well as my recent *Octopress* to *Jekyll*, the greatest text-file-based blog.
+Here I am back again to blogging after stopping for several years. I'm still not through with everything yet <s>but I'm currently migrating my old *Drupal* blog as well as my recent *Octopress* to *Jekyll*</s>, the greatest text-file-based blog.
 
 ## Remaining
 As you can see, it is still a beta move and I have a lot remaining. Therefore, I thought of having it listed down so I can mark whatever is done once I'm through with it. Here goes the list:
@@ -19,5 +19,6 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 7. Tweet a post
 8. Fix imported posts
 9. Fix header links (About, and Contact) layout
+10. Add OG support
 
 Got some suggestions? Feel free to tweet it over to [@Yraffah](http://twitter.com/yraffah "Yousef Raffa")

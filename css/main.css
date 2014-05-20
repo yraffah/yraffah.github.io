@@ -403,3 +403,13 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+.ltr {
+    text-align: left;
+    direction: ltr;
+}
+
+.rtl {
+    text-align: right;
+    direction: rtl;
+}

@@ -1,6 +1,7 @@
 # Site settings
 name: Yousef Raffa's Blog
 title: A Hejazi in Saudi
+tagline: "A Hejazi in Saudi"
 description: "A national Saudi entrepreneur living in Jeddah (Currently in Madina). I talk about entrepreneurship in Saudi, Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
 baseurl: ""
 url: "http://yraffah.com"
@@ -9,6 +10,17 @@ timezone: AST
 lsi: false
 paginate: 5
 
+author:
+  name: "Yousef Raffa"
+  url: https://twitter.com/yraffah
+  
+# Custom vars
+version:          2.0.0
+
+# Username for Github and Twitter
+username: yraffah
+github:
+  repo: http://github.com/yraffah/yraffah.github.io
 
 # Build settings
 markdown: kramdown
@@ -24,5 +36,3 @@ kramdown:
 permalinks: pretty
 excerpt_separator: "\n\n"
 
-# Username for Github and Twitter
-username: yraffah
