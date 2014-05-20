@@ -7,4 +7,4 @@ created: 1289368015
 حُدِّدَ في هذه المسيرة الفوتوغرافية المنطقة الأثرية في مدينة جدة وذلك لأهميتها التاريخية وتعريف المشاركين الشباب من السعوديين والمقيمين على سبيل المثال لا الحصر، بالهندسة المعمارية القديمة والتي تزخر بها المنطقة الأثرية، ونشر الوعي الثقافي والإجتماعي بين جميع شرائح المجتمع لهذه المنطقة في تلك الحقبة.</p>
 <p style="direction:rtl;">للمزيد من المعلومات يمكنكم زيارة موقع فعالية مسيرة مملكتي الفوتوغرافية على الرابط </p> [photostroll.net](http://www.photostroll.net)[^1]
 
-[^1]: Unfortunately the link is not working anymore and is pointing to facebook.
+[^1]: Unfortunately the link is not working anymore and is pointing to Facebook.
