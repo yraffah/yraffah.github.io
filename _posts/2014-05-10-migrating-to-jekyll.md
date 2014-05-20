@@ -14,11 +14,10 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 2. <s>Migrate old Drupal posts (Got to fix the current issue with the Drupal install!)</s>
 3. <s>Comments (not sure if I really want it though)</s>
 4. Contact Form
-5. Design
+5. <s>Design</s> New theme
 6. <s>Support for Twitter Cards</s>
 7. Tweet a post
 8. Fix imported posts
-9. Fix header links (About, and Contact) layout
-10. Add OG support
+9. Add OG support
 
 Got some suggestions? Feel free to tweet it over to [@Yraffah](http://twitter.com/yraffah "Yousef Raffa")
