@@ -4,7 +4,8 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>{{ site.title }}</title>
+ <title>{{ site.name | xml_escape }}, {{ site.title }}</title>
+ <description>{{ site.description | xml_escape }}</description>
  <link href="{{ site.url }}/atom.xml" rel="self"/>
  <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -14,7 +15,7 @@ layout: nil
    <email>{{ site.author.email }}</email>
  </author>
 <rights type="html">{{ site.copyrights | xml_escape }}</rights>
- {% for post in site.posts  limit:15 %}
+ {% for post in site.posts  limit:20 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
