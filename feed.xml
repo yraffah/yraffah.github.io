@@ -8,13 +8,13 @@ layout: none
     <description>{{ site.description | xml_escape }}</description>
     <link>http://yraffah.com/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl }}" rel="self" type="application/rss+xml" />
-	<rights>{{ site.copyrights | xml_escape }}</rights>
+	<rights type="html">{{ site.copyrights | xml_escape }}</rights>
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.excerpt | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-	   <link href="{{ site.url }}{{ post.url }}"/>
+		<link href="{{ site.url }}{{ post.url }}"/>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl }}</guid>
       </item>
     {% endfor %}
