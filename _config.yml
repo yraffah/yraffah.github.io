@@ -5,6 +5,7 @@ tagline: "A Hejazi in Saudi"
 description: "A national Saudi entrepreneur living in Jeddah (Currently in Madina). I write about entrepreneurship in Saudi, Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
 baseurl: ""
 url: "http://yraffah.com"
+include:     ['.htaccess']
 highlighter: pygments
 timezone: AST
 lsi: false
