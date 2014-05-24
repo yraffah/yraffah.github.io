@@ -1,4 +1,1 @@
-## REWRITE DEFAULTS
-RewriteEngine On
-RewriteBase /
 Redirect 301 /atom.xml http://yraffah.com/feed.xml
