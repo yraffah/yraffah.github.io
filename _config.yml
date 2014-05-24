@@ -1,6 +1,5 @@
 # Site settings
 name: Yousef Raffa's Blog
-email: "YRaffah@gmail.com"
 title: A Hejazi in Saudi
 tagline: "A Hejazi in Saudi"
 description: "A national Saudi entrepreneur living in Jeddah (Currently in Madina). I write about entrepreneurship in Saudi, Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
@@ -15,6 +14,7 @@ paginate: 5
 
 author:
   name: "Yousef Raffa"
+  email: "YRaffah@gmail.com"
   url: https://twitter.com/yraffah
   
 # Custom vars
