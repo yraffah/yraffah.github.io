@@ -6,9 +6,9 @@ layout: none
   <channel>
     <title>{{ site.name | xml_escape }}, {{ site.title }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.baseurl }}</link>
+    <link>http://yraffah.com/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl }}" rel="self" type="application/rss+xml" />
-	<rights>copyright_details</rights>
+	<rights>{{ site.copyrights | xml_escape }}</rights>
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
