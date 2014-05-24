@@ -5,7 +5,7 @@ category: Running
 tags: [lifestyle, sports, jmj]
 date: 2014-05-23
 comments: true
-description: JMJ started several years ago as an initiative lead by Ahmed Al-Awadi, a national Saudi young, very talented, engineer. Al-Awadi is known for his experience in marketing, branding, and graphics design skills. As a matter of fact, he had his own design house named ASADesign, visual communications.
+description: "JMJ started several years ago as an initiative lead by Ahmed Al-Awadi, a national Saudi young, very talented, engineer. Al-Awadi is known for his experience in marketing, branding, and graphics design skills. As a matter of fact, he had his own design house named ASADesign, visual communications."
 image: JMJ-Ahmad-Awadi-web.jpg
 
 ---
