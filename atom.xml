@@ -13,6 +13,7 @@ layout: nil
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
  </author>
+<rights>{{ site.copyrights | xml_escape }}</rights>
  {% for post in site.posts  limit:15 %}
  <entry>
    <title>{{ post.title }}</title>
