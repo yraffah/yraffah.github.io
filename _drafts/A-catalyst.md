@@ -4,7 +4,12 @@ title: Startup and SME Catalyst
 categories:
 - entrepreneurship
 tags: [business]
-published: true
+published: false
+sitemap:
+  lastmod: 2014-05-24
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'yes'
 ---
 
 ## A catalyst for startups and SMEs

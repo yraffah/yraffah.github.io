@@ -7,7 +7,11 @@ date: 2014-05-23
 comments: true
 description: "JMJ started several years ago as an initiative lead by Ahmed Al-Awadi, a national Saudi young, very talented, engineer. Al-Awadi is known for his experience in marketing, branding, and graphics design skills. As a matter of fact, he had his own design house named ASADesign, visual communications."
 image: JMJ-Ahmad-Awadi-web.jpg
-
+sitemap:
+  lastmod: 2014-05-25
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 As part of my plan on fighting the very high levels of [low density lipoprotein](http://en.wikipedia.org/wiki/Low-density_lipoprotein) (LDL Cholesterol), as I wrote about earlier in my [running a marathon for the first time blog post]({% post_url 2013-04-30-running-a-marathon-for-the-first-time %}), I like being part of **Jeddah Morning Joggers**, AKA **(JMJ)**.

@@ -4,6 +4,11 @@ title: !binary |-
   2KfZhNmD2KrYqCDYp9mE2KXZhNmD2KrYsdmI2YbZitipINmI2KfZhNii2YrZ
   vtin2K8=
 created: 1270906759
+sitemap:
+  lastmod: 2014-05-24
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'yes'
 ---
 <p style="direction: rtl; text-align: center;"><a href="http://farm3.static.flickr.com/2008/4507910254_ba16a0e31f_o.jpg"><img src="http://farm3.static.flickr.com/2008/4507910254_ca445b52f6.jpg" alt="الكتب الإلكترونية والآيپاد" width="375" height="500" /></a></p>
 <p style="direction: rtl; text-align: right;">مع وصول الآيپاد iPad إلى السعودية (غير رسميا) من قبل بعض المهووسين بالتقنية (وأنا منهم)، بدأت تظهر التقارير والمقالات حول تجارب البعض واستخداماتهم. و لازال الوقت مبكراً وأعتقد أننا سنرى المزيد والمزيد من هذه المقالات.</p>

@@ -5,6 +5,11 @@ title: !binary |-
   2YTYpyDZotmg2aDZoCDYttmF2YYg2YHYudin2YTZitin2Kog2YXZh9ix2KzY
   p9mGINij2KjYrdixINin2YTYs9mK2KfYrdmK
 created: 1192809314
+sitemap:
+  lastmod: 2014-05-24
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'yes'
 ---
 شهدت مدينة جدة في أيام العيد العديد من الفعاليات والمهرجانات و لعل أبرزها كان مهرجان أبحر السياحي ٢٠٠٧ والذي احتوى العديد من المسابقات والأنشطة. منها على سبيل المثال مسيرة لبعض القوارب التراثية و سباق واستعراض الدبابات البحرية (الجيت سكي) و أيضا الجولة قبل الأخيرة من بطولة كأس العالم للزوارق السريعة فورمولا ٢٠٠٠.
 
