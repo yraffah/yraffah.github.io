@@ -6,6 +6,11 @@
     - apple
   layout: post
   description: Everyone was shocked yesterday with the news of Steve Jobs, CEO of *Apple Inc.* announcing his resignation from the CEO position. Some took it with a grain of salt while others where expecting it, like myself.
+  sitemap:
+    lastmod: 2014-05-26
+    priority: 0.7
+    changefreq: monthly
+    exclude: 'no'
 ---
 <a href="http://www.flickr.com/photos/yraffah/2948605576/" title="Steve Jobs in Dubai by Yousef Raffah, on Flickr"><img src="http://farm4.static.flickr.com/3047/2948605576_480b3f44a4_m.jpg" width="161" height="240" alt="Steve Jobs in Dubai" style="float:right;margin:5px 5px 10px 15px;"></a>
 

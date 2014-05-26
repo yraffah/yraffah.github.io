@@ -6,7 +6,11 @@
     - development
   layout: post
   description: It has been ages since I last wrote on my Arabic blog *Yousef Raffah's Blog* and it has been much longer since I last wrote a blog post in English.
-I'm very happy to announce today that this is not true anymore as I'm going to start writing back on this blog and in English. I'm still going to keep my Arabic blog for Arabic stuff but this will be my English blog.
+  sitemap:
+    lastmod: 2014-05-26
+    priority: 0.7
+    changefreq: monthly
+    exclude: 'no'
 ---
 
 ### I'm finally back to blogging ###
