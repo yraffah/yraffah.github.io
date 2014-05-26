@@ -13,10 +13,10 @@ As you can see, it is still a beta move and I have a lot remaining. Therefore, I
 1. <s>Migrate Octopress posts</s>
 2. <s>Migrate old Drupal posts (Got to fix the current issue with the Drupal install!)</s>
 3. <s>Comments (not sure if I really want it though)</s>
-4. Contact Form
+4. <s>Contact Form</s>
 5. <s>Design</s> New theme
 6. <s>Support for Twitter Cards</s>
-7. Tweet a post
+7. <s>Tweet a post</s>
 8. Fix imported posts
 9. Add OG support
 
