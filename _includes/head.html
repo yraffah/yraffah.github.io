@@ -8,6 +8,29 @@
   <!-- Enable Google Webmaster tools verification -->
   <meta name="google-site-verification" content="zR7_tB0R4k313m3U_VetXlAW4EUD5X_aQrystnuz3CA" />
 
+	<!-- Twitter Card Section -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@site_username">
+	<meta name="twitter:creator" content="@yraffah">
+	{% if page.title %}
+	  <meta name="twitter:title" content="{{ page.title }}">
+	{% else %}
+	  <meta name="twitter:title" content="{{ site.title }}">
+	{% endif %}
+	{% if page.url %}
+	  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	{% endif %}
+	{% if page.description %}
+	  <meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+	  <meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+	{% if page.image %}
+	  <meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
+	{% else %}
+	  <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/446105113544130560/9D12vZ9e.jpeg">
+	{% endif %}
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
