@@ -17,7 +17,7 @@
 ### The shock
 
 Everyone was shocked yesterday with the news of Steve Jobs, CEO of [Apple](http://www.apple.com/ "Apple Website") announcing [his resignation](http://http://www.apple.com/pr/library/2011/08/24Letter-from-Steve-Jobs.html "Steve Jobs Resignation Letter") from the CEO position. Some took it with a grain of salt while others where expecting it, like myself.
-
+<!--break-->
 ### The Expectations
 
 To be honest, I was expecting him to do so a couple of years ago, especially with his medical conditions, yet, he only made the decision after proven to the world that Apple [is world's top brand](http://http://www.apple.com/pr/library/2011/08/24Steve-Jobs-Resigns-as-CEO-of-Apple.html).

@@ -12,7 +12,7 @@ Sami Raffa, my eldest 70+ years old uncle is a retired pilot. He is considered o
 
 He used to tell many stories of incidents and adventures that he lived during many years of service. Things that he saw and others that he interacted with. Uncle Sami was always an adventurer and to me is one of the first geeks I ever met in my life. He always had those amazing gadgets and crazy type of electronics, he was a pioneer.
 I still remember the electronic pieces he had on his cycling bikes, shoes, and wrist bands. The garage he had in his basement which is more of a workshop for the RC aircrafts and helicopters he used to build by hand with steam or gasoline engines.
-
+<!--break-->
 ## Around the world in 40 days or less
 
 This time he is doing something else; he will fly around the world in 40 days on his own aircraft. The initial plan was to fly solo but I guess certain conditions didn't allow such a thing so he is taking someone with him.

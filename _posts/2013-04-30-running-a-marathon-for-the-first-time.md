@@ -4,7 +4,7 @@ title: Running a marathon for the first time
 date: 2013-04-30
 category: running
 tags: [marathon]
-description: After discovering I had very high levels of low density lipoprotein (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the *mankind* :).
+description: After discovering I had very high levels of low density lipoprotein (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the mankind :).
 image: 2013-04-30-mobily-marathon.jpg
 ---
 
@@ -18,6 +18,8 @@ Fast forward to one and half years after that, I started practicing for the year
 We trained for less than a month with a schedule of 3 days a week in the beginning then intensive trainings on the last week and a half. I personally was progressing well, according to my athletic status, as you can see in the below image.
 
 <a href="http://yraffah.com/assets/2013-04-30-marathon-training.png"><img src="http://yraffah.com/assets/2013-04-30-marathon-training-web.jpg" alt="Jeddah Marathon training progress" width="500" style="display:block;margin:auto;" /></a>
+
+<!--break-->
 
 ## Jeddah Marathon snags
 First, media coverage and publicity were terrible. I didn't know about it unless and until Ali[^1] asked me to join the team about a month before the race! Since this is becoming an annual race in Jeddah, I believe it should be marketed in a much better manner. Awareness campaigns here and there. Involve school kids to let them know the importance of running or sports in general and so many other ways.

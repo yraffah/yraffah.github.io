@@ -11,4 +11,3 @@ created: 1246104909
 <p style="direction: rtl; text-align: right;"></p>
 <p style="direction: rtl; text-align: right;"><span style="font-family: 'Lucida Grande', sans-serif; font-size: 16px; line-height: 20px;">مجموعة اليوم هي صور لـ <a href="http://www.hyundaigenesis.com/coupe/">Hyundai Genesis Coupe</a> صفراء اللون. و قد شاهدتها و أنا في طريقي للمنزل في طريق الملك.</span><br /></p>
 <p style="direction: rtl; text-align: center;"><br /></p>
-<!--break-->

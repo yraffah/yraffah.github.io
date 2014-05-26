@@ -13,7 +13,7 @@ sitemap:
 ---
 
 ## A catalyst for startups and SMEs
-We are currently establishing Namaa Almunawara in Medina province, which will be the central hub, state-owned company, that helps and provides services for startups and SMEs. Since we currently don't have any sort of entrepreneurial ecosystem in Saudi, Namaa Almunawara is taking the lead and implementing it at a regional level.
+We are currently establishing Namaa Al Munawara in Medina province, which will be the central hub, state-owned company, that helps and provides services for startups and SMEs. Since we currently don't have any sort of entrepreneurial ecosystem in Saudi, Namaa Al Munawara is taking the lead and implementing it at a regional level.
 
 ## Three main roles
 

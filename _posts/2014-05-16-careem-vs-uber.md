@@ -5,12 +5,12 @@ category: Lifestyle
 tags: [apps, services, cars]
 date: 2014-05-16
 comments: true
-description: Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong*.
+description: Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are wrong!
 image: careem-prize.jpg
 
 ---
 
-Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong*. I personally have a car, yet, I needed a decent, clean, odor-free, and available car to drop me to or from an airport.
+Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong!*. I personally have a car, yet, I needed a decent, clean, odor-free, and available car to drop me to or from an airport.
 
 <a href="{{ site.url }}/assets/uber-logo.jpg"><img src="{{ site.url }}/assets/uber-logo.jpg" alt="Uber Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
 
@@ -24,6 +24,8 @@ Once I was in Dammam and wanted to book a car to drop me to the hotel but unfort
 I'm still eager to try their service but unfortunately I wasn't able to up till now. I might update this post once I do.
 
 <a href="{{ site.url }}/assets/careem-logo.png"><img src="{{ site.url }}/assets/careem-logo.png" alt="Careem Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
+
+<!--break-->
 
 ## Careem
 By the time I knew about Careem, they were already operating in Riyadh, Dammam, and just started in Jeddah that week! During my trip to Riyadh after that, I booked a car and it came within 4 minutes! [The app](https://itunes.apple.com/us/app/careem/id592978487?mt=8) showed me the car on its way to me, driver's name, and his mobile phone number. Once the car arrived, it displayed the car's license plate, which is smart!

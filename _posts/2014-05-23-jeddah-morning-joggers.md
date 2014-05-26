@@ -20,6 +20,8 @@ As part of my plan on fighting the very high levels of [low density lipoprotein]
 
 *[JMJ](https://www.facebook.com/groups/jmj.gr/)* started several years ago as an initiative lead by *[Ahmed Al-Awadi](http://instagram.com/ahmed_awadi)*, a national Saudi young, very talented, engineer. *Al-Awadi* is known for his experience in marketing, branding, and graphics design skills. As a matter of fact, he had his own design house named *[ASADesign, visual communications](http://asadesign.com.sa/)*. He never expected nor anticipated it lasting for a year let a lone several years! In fact some of the group members by then were very skeptic and almost guaranteed him a big failure. *Al-Awadi's* persistence and motivation never stopped, which helped him get new members every now and then and that's when I met him in October 2011 when he was assigned to develop a re-branding concept for a logo I had. *Al-Awadi* asked me to join his group even though I never been jogging before. As a matter of fact, **JMJ** group is mainly consisting of new joggers, or people that are new to running, in other words, beginners or as we techies like to label them, *n00bs*.
 
+<!--break-->
+
 ## My first jog
 I joined *Al-Awadi* in **JMJ** and started my first jog with him. I still remember it until this day, not because it was fabulous, but because it was a mess! I couldn't run for more than **300** meters. Trying to catch my breath every few hundred meters, I barely finished my first 1K.
 

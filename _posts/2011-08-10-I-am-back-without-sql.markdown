@@ -28,6 +28,7 @@ on flat files. Not even PHP coding or any server side scripting.
 
 All of the above applies to PHP as well. I hated it and never liked it as well :/
 
+<!--break-->
 ### Why are you telling us all this? ###
 For several reasons:
 
