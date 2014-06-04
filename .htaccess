@@ -1,1 +1,8 @@
+---
+---
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+
 Redirect 301 /feed.xml http://yraffah.com/atom.xml

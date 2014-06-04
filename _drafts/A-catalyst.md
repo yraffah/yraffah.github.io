@@ -13,9 +13,16 @@ sitemap:
 ---
 
 ## A catalyst for startups and SMEs
-We are currently establishing Namaa Al Munawara in Medina province, which will be the central hub, state-owned company, that helps and provides services for startups and SMEs. Since we currently don't have any sort of entrepreneurial ecosystem in Saudi, Namaa Al Munawara is taking the lead and implementing it at a regional level.
+We are currently establishing Namaa Al Munawara in Medina province, which will be the central hub, state-owned company, that helps and provides services for startups and SMEs. Since we currently don't have any sort of a solid entrepreneurial ecosystem in Saudi, Namaa Al Munawara is taking the lead and implementing it at a regional level in Madina.
 
-## Three main roles
+## Objectives
+
+Our main objectives at Namaa are:
+
+1. To have a *sustainable economic development*
+2. Create *regional socio-economic impact on citizens*
+
+## What are we going to do?
 
 Namaa is mandated with three main roles:
 
@@ -23,10 +30,10 @@ Namaa is mandated with three main roles:
 2. Initiatives' execution (Initiatives and investments)
 3. Ecosystem enhancement (Get a fair chance of government quotas for SMEs)
 
-## Main objectives
+### Facilitation hub
 
-Our main objectives at Namaa are:
+### Initiatives' execution
 
-1. To have a *sustainable economic development*
-2. Create *regional socio-economic impact on citizens*
+### Ecosystem enhancement
+
 

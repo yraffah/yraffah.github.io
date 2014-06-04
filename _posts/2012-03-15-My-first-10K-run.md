@@ -5,6 +5,11 @@ Date: 15-03-2012
 categories:
 - running
 tags: [health]
+sitemap:
+  lastmod: 2014-05-10
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 Tonight I have achieved a milestone in my running progress, it was my first 10K run in which I challenged myself to achieve. My previous best record was a 7 km run where I was contributing in one of [JRR](http://www.facebook.com/) races. I was proud of myself for two reasons. The first is that this was my first race ever and I did finish it, while the second is that I never ran for 7 km!

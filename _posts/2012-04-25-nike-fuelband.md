@@ -6,6 +6,11 @@ category: running
 tags: [gadgets, nike]
 description: Nike just released a new gadget named Nike+ Fuelband. I want to put my hand on one, or actually put one in my hand.
 image: 
+sitemap:
+  lastmod: 2014-05-25
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 ## Finally Received

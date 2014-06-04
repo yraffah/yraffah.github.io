@@ -6,6 +6,11 @@ category: running
 tags: [marathon]
 description: After discovering I had very high levels of low density lipoprotein (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the mankind :).
 image: 2013-04-30-mobily-marathon.jpg
+sitemap:
+  lastmod: 2014-05-26
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 After discovering I had very high levels of [low density lipoprotein](http://en.wikipedia.org/wiki/Low-density_lipoprotein) (LDL Cholesterol), in addition to me being overweight. I decided it was really important to re-focus on my health for the sake of myself, my family, and the *mankind* :). Since then, I started changing my eating and cooking habits, in addition to a little bit of cardio exercises, basically walking and jogging.

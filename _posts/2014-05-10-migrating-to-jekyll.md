@@ -3,6 +3,11 @@ layout: post
 title: Migrating to Jekyll
 category: blog
 tags: [jekyll,blog]
+sitemap:
+  lastmod: 2014-05-25
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 Here I am back again to blogging after stopping for several years. I'm still not through with everything yet <s>but I'm currently migrating my old *Drupal* blog as well as my recent *Octopress* to *Jekyll*</s>, the greatest text-file-based blog.

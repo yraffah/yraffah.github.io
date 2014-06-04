@@ -7,7 +7,11 @@ date: 2014-05-16
 comments: true
 description: Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are wrong!
 image: careem-prize.jpg
-
+sitemap:
+  lastmod: 2014-05-26
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong!*. I personally have a car, yet, I needed a decent, clean, odor-free, and available car to drop me to or from an airport.

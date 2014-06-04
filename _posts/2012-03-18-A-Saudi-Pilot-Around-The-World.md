@@ -4,6 +4,11 @@ title: "A saudi pilot around the world"
 date: 2012-03-18
 category: family
 tags: [inspiration, aviation]
+sitemap:
+  lastmod: 2014-05-01
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 ## A retired saudi pilot

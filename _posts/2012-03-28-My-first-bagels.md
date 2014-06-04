@@ -4,6 +4,11 @@ title: "My first try at making bagels"
 date: 2012-03-28
 category: food
 tags: [cooking, health]
+sitemap:
+  lastmod: 2014-05-22
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 ## Cooking is a passion

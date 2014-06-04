@@ -4,7 +4,11 @@ title: A problem in the Saudi entrepreneurship ecosystem
 category: entrepreneurship
 tags: [business, saudi arabia]
 date: 2014-05-14
-
+sitemap:
+  lastmod: 2014-05-26
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 
 Just like anywhere in the world, SMEs and startups represents the majority of commercial record registrations (CRs) in the [Ministry of Commerce and Industry (MCI)](http://www.mci.gov.sa/en/Pages/Default.aspx). In fact, they share more than 95% of these registrations! Which is a typical scenario in most other countries.
