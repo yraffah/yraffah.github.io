@@ -34,4 +34,4 @@ _2011-08-15 1:01 AM_
 I'm done working on the portfolio and now heading for some final touches and things missing here and there.
 
 [^1]: That was on an old website. The current website doesn't have a portfolio page since everything is combined in the [About](/about/) page.
-[2]: {{site_url}}/2011/08/10/I-am-back-without-sql "I'm Back without SQL and PHP!"
+[2]: {{ post_url }}/2011/08/10/I-am-back-without-sql "I'm Back without SQL and PHP!"
