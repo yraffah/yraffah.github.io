@@ -1,6 +1,6 @@
 ---
 layout: post
-title: أبجديات نيكون للعدسات
+title: رموز نيكونية
 created: 1246785342
 category: photography
 tags: [nikon, lenses]
