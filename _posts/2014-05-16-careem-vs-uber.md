@@ -32,6 +32,8 @@ I'm still eager to try their service but unfortunately I wasn't able to up till 
 ## Careem
 By the time I knew about Careem, they were already operating in Riyadh, Dammam, and just started in Jeddah that week! During my trip to Riyadh after that, I booked a car and it came within 4 minutes! [The app](https://itunes.apple.com/us/app/careem/id592978487?mt=8) showed me the car on its way to me, driver's name, and his mobile phone number. Once the car arrived, it displayed the car's license plate, which is smart!
 
+If you can't wait to try it, you can [signup now](careem.com/signup/DGGOYCE1WX) and get 30 S.R. free credit!
+
 ### Service assessment
 
 #### Drivers
@@ -50,5 +52,8 @@ Another great thing in their app is the option of selecting a car category. You 
 
 #### Additional features
 Although it might be one of their current competitive advantages over Uber, having the option of booking a car in advance[^1] is really useful, especially during early mornings where no one is usually up and is available to drop/pick you to/from an airport. I used it several times.
+
+### Register now and get Free credits
+Yes, [register now](careem.com/signup/DGGOYCE1WX) and get 30 SR free credits.
 
 [^1]: The booking has to be at least 2 hours in advance. Pre-booked cars cost a little bit more than immediate bookings *"Book Now"*.
