@@ -4,6 +4,13 @@ title: !binary |-
   2KPZhtmI2KfYuSDYp9mE2LnYr9iz2KfYqiDZgdmKINin2YTZg9in2YXZitix
   2KfYqg==
 created: 1176714895
+category: photography
+tags: [nikon, lenses]
+sitemap:
+  lastmod: 2014-06-07
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 <p dir="rtl">ألم تسأل نفسك مرة عن هذه الأرقام التي تكتب على العدسات عن ماهيتها و مالفائدة منها و ماذا تعني تلك الأرقام؟ هل تعرف معنى 18mm أو 200mm؟ ماذا يعني الرقم هذا و هل يفضل استخدام الأرقام الكبيرة أم الصغيرة؟ ألم تلاحظ أن هناك أرقاما أخرى صغيرة مثل 2.8 أو 1.4؟<br />
 بإذن الله تعالى سأحاول شرح ما سبق بطريقة بسيطة في هذه التدوينة.</p>
