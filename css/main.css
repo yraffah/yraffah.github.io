@@ -410,6 +410,6 @@ a:visited { color: #205caa; }
 }
 
 .rtl {
-    text-align: right;
     direction: rtl;
+    text-align: right;
 }

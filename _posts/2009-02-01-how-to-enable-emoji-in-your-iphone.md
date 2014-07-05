@@ -1,59 +1,58 @@
 ---
 layout: post
-title: !binary |-
-  2YPZitmB2YrYqSDYqtmB2LnZitmEINin2YTYpdmK2YXZiNis2YogRW1vamkg
-  2YHZiiDYp9mE2YAgaVBob25l
+title: كيفية تفعيل الـ Emoji في الـ iPhone
 created: 1233493077
+category: apple
+tags: [iPhone, apps, emoji]
+description: هذا مقال قديم ولا يتماشى مع
+image: 
+sitemap:
+  lastmod: 2014-06-09
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
-<p align="center" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro"><a href="http://forums.mactalk.com.au/20/66078-enable-emoji-iphone-without-jailbreak-japanese-carrier.html"><img alt="" src="http://www2.mactalk.com.au/gallery2/d/5264-1/iPhoneEmoji1.png" /></a></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">&nbsp;</p>
-<h1>ماذا تعني كلمة إيموجي <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a>؟</h1>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">هي كلمة يابانية تعني الإبتسامات والأشكال التي تستخدم عادة في الإنترنت والرسائل النصية و تعرف إنجليزيا بـ ِ<span style="font: 12.0px Lucida Grande">Emoticons&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">و لتفعيلها في الـ <span style="font: 12.0px Lucida Grande">iPhone</span> يجب تحديد إن كان هاتفك <span style="font: 12.0px Lucida Grande">Jailbroken</span> أم لا (يعني هل تجد أيقونة لبرنامج <span style="font: 12.0px Lucida Grande">Cydia</span> من ضمن تطبيقات الـ <span style="font: 12.0px Lucida Grande">iPhone</span>؟)</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">إن كنت تملك جهازا <span style="font: 12.0px Lucida Grande">Jailbroken</span> و لديك برنامج <span style="font: 12.0px Lucida Grande">Cydia</span> قم بالخطوات التالية أما إن كان جهازك <span style="font: 12.0px Lucida Grande">Officially</span> <span style="font: 12.0px Lucida Grande">Unlocked</span> أو ليس <span style="font: 12.0px Lucida Grande">Jailbroken</span> عليك إتباع الخطوات الموجودة بالأسفل</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">قم بتشغيل برنامج <span style="font: 12.0px Lucida Grande">Cydia</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">إضغط على <span style="font: 12.0px Lucida Grande"><b>Sections</b></span> من القائمة السفلية واختر <span style="font: 12.0px Lucida Grande"><b>All</b></span> <span style="font: 12.0px Lucida Grande"><b>Packages</b></span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">قم<span style="font: 12.0px Lucida Grande"> </span>بالبحث<span style="font: 12.0px Lucida Grande"> </span>في<span style="font: 12.0px Lucida Grande"> </span>البرامج<span style="font: 12.0px Lucida Grande"> </span>التي<span style="font: 12.0px Lucida Grande"> </span>تبدأ<span style="font: 12.0px Lucida Grande"> </span>بالحرف<span style="font: 12.0px Lucida Grande"> E </span>وابحث عن برنامج <span style="font: 12.0px Lucida Grande"><b>Emoji</b></span> ثم إضغط عليه</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">لتثبيت البرنامج قم بالضغط على <span style="font: 12.0px Lucida Grande"><b>Install</b></span> في أعلى القائمة من الجهة اليمنى للشاشة ثم إضغط <span style="font: 12.0px Lucida Grande"><b>Confirm</b></span> لتأكيد عملية التثبيت</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">بعد عملية التثبيت سيطلب منك البرنامج إعادة تشغيل <span style="font: 12.0px Lucida Grande">SpringBoard </span>و<span style="font: 12.0px Lucida Grande"> </span>من<span style="font: 12.0px Lucida Grande"> </span>ثم<span style="font: 12.0px Lucida Grande"> </span>اخرج<span style="font: 12.0px Lucida Grande"> </span>من<span style="font: 12.0px Lucida Grande"> </span>برنامج<span style="font: 12.0px Lucida Grande"> Cydia </span>عن<span style="font: 12.0px Lucida Grande"> </span>طريق الضغط على زر الــ <span style="font: 12.0px Lucida Grande"><b>Home</b></span> في الـ <span style="font: 12.0px Lucida Grande">iPhone</span> (إن لم تكن تعرف زر الـ <span style="font: 12.0px Lucida Grande"><b>Home</b></span> فهذه طامة كبرى) :)</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<h2><a href="#keyboard">إتبع الخطوات التالية لتفعيل لوحة المفاتيح</a></h2>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">الطريقة<span style="font: 12.0px Lucida Grande"> </span>الثانية: لمن لا يملك هاتفا به برنامج <span style="font: 12.0px Lucida Grande">Cydia</span> أو لمن يستخدم جهازا غير مقفل بشكل رسمي <span style="font: 12.0px Lucida Grande">Officially</span> <span style="font: 12.0px Lucida Grande">Unlocked</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">عليكم شراء برنامج اسمه <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290116587"><span style="font: 12.0px Lucida Grande">Frostyplace</span></a> (يمكنكم الضغط مباشرة على الرابط لفتح صفحة البرنامج في الـ <span style="font: 12.0px Lucida Grande">iTunes</span>) ثمنه $<span style="font: 12.0px Lucida Grande">0</span>.<span style="font: 12.0px Lucida Grande">99</span>. بعد شراء البرنامج يجب الضغط على أيقونة البالونة الزرقاء كما في الشكل واختر أي موضوع عشوائي من القائمة</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;<span style="font: 12.0px Lucida Grande">&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p align="center" style="&quot;margin:"><a href="http://forums.mactalk.com.au/20/66078-enable-emoji-iphone-without-jailbreak-japanese-carrier.html"><img alt="iPhoneEmoji3.png" src="http://www2.mactalk.com.au/gallery2/d/5273-1/iPhoneEmoji3.png" /></a></p>
-<p>&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">إرجع للصفحة الرئيسية عن طريق زر الـ <span style="font: 12.0px Lucida Grande"><b>Home</b></span> و<a href="#keyboard">اتبع الخطوات التالية لتفعيل لوحة المفاتيح</a> و <a href="http://tastyblogsnack.com/2009/01/23/iphone-emoticons-without-hacking/">هذا الموقع</a> به مقطع&nbsp; فيديو لطريقة التثبيت</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<h1><a name="keyboard"></a>خطوات تفعيل لوحة المفاتيح الخاصة بالـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a></h1>
-<p><span style="font: 12.0px Geeza Pro">من</span> <span style="font: 12.0px Geeza Pro">الشاشة</span> <span style="font: 12.0px Geeza Pro">الرئيسية</span> <span style="font: 12.0px Geeza Pro">قم بتشغيل </span><b>Settings</b><span style="font: 12.0px Geeza Pro"> ثم&nbsp; </span><b>General</b><span style="font: 12.0px Geeza Pro"> ثم&nbsp;</span> <b>Keyboard</b> <span style="font: 12.0px Geeza Pro">ثم</span>&nbsp; <b>International</b> <b>Keyboards</b> <span style="font: 12.0px Geeza Pro">ثم</span> <span style="font: 12.0px Geeza Pro">اذهب إلى </span><b>Japanese</b><span style="font: 12.0px Geeza Pro">&nbsp; وقم بتفعيل&nbsp; </span><b>Emoji</b></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">بهذا نكون<span style="font: 12.0px Lucida Grande"> </span>إنتهينا<span style="font: 12.0px Lucida Grande"> </span>من<span style="font: 12.0px Lucida Grande"> </span>كل المطلوب ولم يبقى سوى التجربة. يمكنكم الآن تجربتها في أي برنامج يمكنكم الكتابة فيه. سواء كان <span style="font: 12.0px Lucida Grande">SMS</span> أو <span style="font: 12.0px Lucida Grande">Notes</span> أو <span style="font: 12.0px Lucida Grande">Mail</span>. كل ما عليكم فعله هو تغيير لوحة المفاتيح أثناء الكتابة عن طريقة أيقونة الكرة الأرضية <span style="font: 12.0px Lucida Grande">Globe :)</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">يمكنكم<span style="font: 12.0px Lucida Grande"> </span>مشاركتنا<span style="font: 12.0px Lucida Grande"> </span>في<span style="font: 12.0px Lucida Grande"> </span>حال<span style="font: 12.0px Lucida Grande"> </span>نجحت التجربة معكم أم لم تنجح :)</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande; min-height: 15.0px">&nbsp;</p>
-<h1><b>أسئلة</b><span style="font: 12.0px Lucida Grande"><b> </b></span><b>متكررة</b></h1>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">هل<span style="font: 12.0px Lucida Grande"> </span>المرسل إليه بحاجة لتثبيت برنامج معين أو عمل أي خطوات محددة لاستقبال الـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a>؟</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">لا، المرسل إليه ليس بحاجة لأي تعديل على جهازه لرؤية الـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a> شرط أن يكون جهازه يعمل بإصدار الـ <span style="font: 12.0px Lucida Grande">iPhone</span>&nbsp; <span style="font: 12.0px Lucida Grande">2</span>.<span style="font: 12.0px Lucida Grande">1</span> أو أحدث.</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">هل يمكن إرسال الـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a> لمن يستخدم هاتفا آخر غير الـ <span style="font: 12.0px Lucida Grande">iPhone</span>؟</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">للأسف لا يمكن ذلك. أي جهاز غير الـ <span style="font: 12.0px Lucida Grande">iPhone</span> سيرى مربعات فارغة بدلا من الـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a>.</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">هل يمكن استخدام الـ <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a> في برنامج البريد <span style="font: 12.0px Lucida Grande">Mail </span>من<span style="font: 12.0px Lucida Grande"> </span>الـ<span style="font: 12.0px Lucida Grande"> iPhone</span>؟</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">نعم لكن المرسل إليه يجب أن يقرأ رسالة البريد من جهاز الـ <span style="font: 12.0px Lucida Grande">iPhone</span>.</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">هل يمكن استخدام <a href="http://en.wikipedia.org/wiki/Emoji"><span style="font: 12.0px Lucida Grande">Emoji</span></a> مع الإصدار <span style="font: 12.0px Lucida Grande">2</span>.<span style="font: 12.0px Lucida Grande">2.1 </span>من<span style="font: 12.0px Lucida Grande"> </span>نظام الـ<span style="font: 12.0px Lucida Grande"> iPhone</span>؟</p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro">&nbsp;إن لم تقم بتثبيت برنامج <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290116587"><span style="font: 12.0px Lucida Grande">Frostplace</span></a><span style="font: 12.0px Lucida Grande"> </span>على<span style="font: 12.0px Lucida Grande"> </span>جهازك قبل التحديث فإن البرنامج لن يعمل معك خلال الأيام القادمة. إلا أن مطوري البرنامج يعملون على نسخة جديدة منه تعمل مع الإصدار <span style="font: 12.0px Lucida Grande">2</span>.<span style="font: 12.0px Lucida Grande">2</span>.<span style="font: 12.0px Lucida Grande">1</span>من نظام الـ<span style="font: 12.0px Lucida Grande">iPhone</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Geeza Pro; min-height: 15.0px">&nbsp;</p>
-<h2>المصادر::<span style="font: 12.0px Lucida Grande">Sources</span></h2>
+
+# ماذا تعني كلمة إيموجي [^1]Emoji؟
+<p class="rtl">هي كلمة يابانية تعني الإبتسامات والأشكال التي تستخدم عادة في الإنترنت والرسائل النصية و تعرف إنجليزيا بـ ِEmoticons و لتفعيلها في الـ iPhone يجب تحديد إن كان هاتفك Jailbroken أم لا (يعني هل تجد أيقونة لبرنامج Cydia من ضمن تطبيقات الـ iPhone؟) إن كنت تملك جهازا Jailbroken و لديك برنامج Cydia قم بالخطوات التالية أما إن كان جهازك  Officially Unlocked أو ليس Jailbroken عليك إتباع الخطوات الموجودة بالأسفل</p>
+
+<p style="rtl">قم بتشغيل برنامج Cydia</p>
+<p style="rtl">إضغط على <b>Sections</b> من القائمة السفلية واختر <b>All</b><b>Packages</b></p>
+<p style="rtl">قم بالبحث في البرامج التي تبدأ بالحرف E وابحث عن برنامج <b>Emoji</b> ثم إضغط عليه</p>
+<p style="rtl">لتثبيت البرنامج قم بالضغط على <b>Install</b> في أعلى القائمة من الجهة اليمنى للشاشة ثم إضغط <b>Confirm</b> لتأكيد عملية التثبيت</p>
+<p style="rtl">بعد عملية التثبيت سيطلب منك البرنامج إعادة تشغيل SpringBoard و من ثم اخرج من برنامج Cydia عن طريق الضغط على زر الــ <b>Home</b> في الـ iPhone (إن لم تكن تعرف زر الـ <b>Home</b> فهذه طامة كبرى) :)</p>
+
+## إتبع الخطوات التالية لتفعيل لوحة المفاتيح
+
+<p style="rtl">الطريقة الثانية: لمن لا يملك هاتفا به برنامج Cydia أو لمن يستخدم جهازا غير مقفل بشكل رسمي Officially Unlocked</p>
+<p style="rtl">عليكم شراء برنامج اسمه <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290116587">Frostyplace</a> (يمكنكم الضغط مباشرة على الرابط لفتح صفحة البرنامج في الـ iTunes) ثمنه $0.99. بعد شراء البرنامج يجب الضغط على أيقونة البالونة الزرقاء كما في الشكل واختر أي موضوع عشوائي من القائمة</p>
+
+<p style="rtl">إرجع للصفحة الرئيسية عن طريق زر الـ <b>Home</b> و<a href="#keyboard">اتبع الخطوات التالية لتفعيل لوحة المفاتيح</a> و <a href="http://tastyblogsnack.com/2009/01/23/iphone-emoticons-without-hacking/">هذا الموقع</a> به مقطع فيديو لطريقة التثبيت</p>
+
+
+## خطوات تفعيل لوحة المفاتيح الخاصة بالـ [Emoji](http://en.wikipedia.org/wiki/Emoji Emoji)
+<p>من الشاشة الرئيسية قم بتشغيل <b>Settings</b> ثم <b>General</b> ثم <b>Keyboard</b> ثم <b>International</b> <b>Keyboards</b> ثم اذهب إلى <b>Japanese</b> وقم بتفعيل <b>Emoji</b></p>
+
+<p style="rtl">بهذا نكون إنتهينا من كل المطلوب ولم يبقى سوى التجربة. يمكنكم الآن تجربتها في أي برنامج يمكنكم الكتابة فيه. سواء كان SMS أو Notes أو Mail. كل ما عليكم فعله هو تغيير لوحة المفاتيح أثناء الكتابة عن طريقة أيقونة الكرة الأرضية Globe :)</p>
+
+<p style="rtl">يمكنكم مشاركتنا في حال نجحت التجربة معكم أم لم تنجح :)</p>
+
+## أسئلة متكررة
+<p style="rtl">هل المرسل إليه بحاجة لتثبيت برنامج معين أو عمل أي خطوات محددة لاستقبال الـ <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a>؟</p>
+<p style="rtl">لا، المرسل إليه ليس بحاجة لأي تعديل على جهازه لرؤية الـ <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a> شرط أن يكون جهازه يعمل بإصدار الـ iPhone 2.1 أو أحدث.</p>
+
+<p style="rtl">هل يمكن إرسال الـ <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a> لمن يستخدم هاتفا آخر غير الـ iPhone؟</p>
+<p style="rtl">للأسف لا يمكن ذلك. أي جهاز غير الـ iPhone سيرى مربعات فارغة بدلا من الـ <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a>.</p>
+
+<p style="rtl">هل يمكن استخدام الـ <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a> في برنامج البريد Mail من الـ iPhone؟</p>
+<p style="rtl">نعم لكن المرسل إليه يجب أن يقرأ رسالة البريد من جهاز الـ iPhone.</p>
+
+<p style="rtl">هل يمكن استخدام <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a> مع الإصدار 2.2.1 من نظام الـ iPhone؟</p>
+<p style="rtl">إن لم تقم بتثبيت برنامج <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290116587">Frostplace</a> على جهازك قبل التحديث فإن البرنامج لن يعمل معك خلال الأيام القادمة. إلا أن مطوري البرنامج يعملون على نسخة جديدة منه تعمل مع الإصدار 2.2.1من نظام الـiPhone</p>
+
+## المصادر
 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande"><a href="http://www.tuaw.com/2009/01/26/emoji-on-your-iphone/">Emoji on your iPhone</a></p>
 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande"><a href="http://forums.mactalk.com.au/20/66078-enable-emoji-iphone-without-jailbreak-japanese-carrier.html">enable emoji iphone without jailbreak japanese carrier</a></p>
 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Lucida Grande"><a href="http://tastyblogsnack.com/2009/01/23/iphone-emoticons-without-hacking/">iPhone emoticons without hacking</a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+[^1]: http://en.wikipedia.org/wiki/Emoji

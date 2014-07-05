@@ -4,7 +4,7 @@ title: Migrating to Jekyll
 category: blog
 tags: [jekyll,blog]
 sitemap:
-  lastmod: 2014-05-25
+  lastmod: 2014-06-15
   priority: 0.7
   changefreq: monthly
   exclude: 'no'

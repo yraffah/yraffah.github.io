@@ -5,7 +5,7 @@ created: 1246785342
 category: photography
 tags: [nikon, lenses]
 sitemap:
-  lastmod: 2014-06-07
+  lastmod: 2014-07-05
   priority: 0.7
   changefreq: monthly
   exclude: 'no'
