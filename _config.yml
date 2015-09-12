@@ -1,16 +1,40 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:  ./_plugins
+layouts_dir:  ./_layouts
+data_dir:     ./_data
+includes_dir: ./_includes
+collections:  null
+
+# Handling Reading
+safe:         false
+include:      []
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
+
 # Site settings
 name: Yousef Raffa's Blog
 title: A Hejazi in Saudi
 tagline: "A Hejazi in Saudi"
-description: "A national Saudi entrepreneur living in Madina, Saudi Arabia. I write about entrepreneurship in Saudi, Mac, web, photography, geocaching, and amateur radio (HZ1YR)"
-copyrights: "&copy; 2014 Yousef Raffa. All rights reserved."
+description: "A national Saudi entrepreneur living in Madina, Saudi Arabia. I write about entrepreneurship, Mac, web, photography, geocaching, and amateur radio (HZ1YR) in Saudi"
+copyrights: "&copy; 2015 Yousef Raffa. All rights reserved."
 baseurl: ""
 url: "http://yraffah.com"
-include:     ['.htaccess']
+include: ['.htaccess']
 highlighter: pygments
 timezone: AST
 lsi: false
 paginate: 5
+detach: false
 
 author:
   name: "Yousef Raffa"
@@ -21,7 +45,7 @@ gems:
   - jekyll-redirect-from
   
 # Custom vars
-version:          2.0.0
+version: 2.5.0
 
 # Username for Github and Twitter
 username: yraffah
@@ -30,6 +54,8 @@ github:
 
 # Build settings
 markdown: kramdown
+
+# Markdown Processors
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -41,4 +67,3 @@ kramdown:
   
 permalinks: pretty
 excerpt_separator: <!--break-->
-
