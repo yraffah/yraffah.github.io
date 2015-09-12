@@ -20,6 +20,8 @@ I recently had the chance to visit a detoxing specialist in Turkey during a quic
 Ahmed's blood sample (*below*) looked really good (Ma sha'a Allah). The specialist said it was perfect, smooth, and just couldn't be better. As you can see from the photo, the red blood cells are firmly round and has room to roam around and flow. They look healthy or shall I say "Happy :)". From my personal observation, Ahmed is a normal person eating a regular diet, yet, he tries to avoid fried food if possible.
 ![{{ site.url }}/assets/2014-07-14-IMG_4433-thumb.jpg]({{ site.url }}/assets/2014-07-14-IMG_4433-full.jpg)
 
+<!--break-->
+ 
 ## The second blood sample
 Some of you might know I have high levels of low density lipoprotein (LDL Cholesterol), as I explained earlier in my [marathon post](/running/2013/04/30/running-a-marathon-for-the-first-time.html). Therefore, I expected my blood sample to be a little bit different than Ahmed's. That feeling started to build up until I became worried. The minute she saw my blood cells she started to re-adjust the focus of the microscope, I knew something was wrong! It took her a good minute or two before displaying it on the big TV screen and that is when I got **shocked** to say the least.
 
