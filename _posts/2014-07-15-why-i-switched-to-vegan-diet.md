@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I switched to a vegan diet
+title: Why I switched to a vegan diet?
 category: vegan
 tags: [healthy, lifestyle, diet]
 date: 2014-07-14
