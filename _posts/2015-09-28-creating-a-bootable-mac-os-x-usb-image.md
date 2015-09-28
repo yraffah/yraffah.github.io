@@ -12,7 +12,7 @@ sitemap:
   exclude: 'no'
 ---
 
-![OS X El Capitan1](../assets/2015/09/OS-X-El-Capitan1.jpg)
+![OS X El Capitan1]({{ site.url }}/assets/2015/09/OS-X-El-Capitan1.jpg)
 
 # Steps to create a bootable image of Mac OS X El Capitan
 
