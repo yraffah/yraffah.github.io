@@ -30,7 +30,7 @@ copyrights: "&copy; 2015 Yousef Raffa. All rights reserved."
 baseurl: ""
 url: "http://yraffah.com"
 include: ['.htaccess']
-highlighter: pygments
+highlighter: rouge
 timezone: AST
 lsi: false
 paginate: 5
