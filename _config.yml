@@ -67,3 +67,5 @@ kramdown:
   
 permalinks: pretty
 excerpt_separator: <!--break-->
+
+theme: jekyll-theme-cayman
