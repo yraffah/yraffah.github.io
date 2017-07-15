@@ -14,3 +14,5 @@ sitemap:
 ---
 
 # Hello Hue
+
+Well I just bout me a Philips [Hue starter kit](http://www2.meethue.com/en-us/productdetail/philips-hue-white-and-color-ambiance-starter-kit-a19) , [Hue Iris](http://www2.meethue.com/en-us/productdetail/philips-hue-iris), and [Hue Go](http://www2.meethue.com/en-us/productdetail/philips-hue-go)

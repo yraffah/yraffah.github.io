@@ -9,17 +9,60 @@ collections:  null
 
 # Handling Reading
 safe:         false
-include:      []
-exclude:      []
+include: ['.htaccess']
+exclude: [Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
+
 
 # Filtering Content
 show_drafts: null
 limit_posts: 0
 future:      false
 unpublished: false
+
+# Plugins
+whitelist: []
+plugins: [jekyll-paginate]
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: <!--break-->
+incremental: false
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+show_dir_listing: false
+
+# Outputting
+#permalink:     date
+permalinks: pretty
+paginate_path: /page:num
+timezone: AST
+
+quite:     false
+verbose:   false
+defaults:  []
+
+liquid:
+  error_mode: warn
+
+# Markdown Processors
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  input: GFM
 
 # Site settings
 name: Yousef Raffa's Blog
@@ -29,10 +72,6 @@ description: "I write about Jeeps, entrepreneurship, Mac, web, photography, geoc
 copyrights: "&copy; 2015 Yousef Raffa. All rights reserved."
 baseurl: ""
 url: "http://yraffah.com"
-include: ['.htaccess']
-highlighter: rouge
-timezone: AST
-lsi: false
 paginate: 5
 detach: false
 
@@ -41,31 +80,17 @@ author:
   email: "YRaffah@gmail.com"
   url: https://twitter.com/yraffah
   
-gems:
-  - jekyll-redirect-from
+#gems:
+#  - jekyll-redirect-from
   
 # Custom vars
-version: 2.5.0
+#version: 3.5.0
 
 # Username for Github and Twitter
 username: yraffah
 github:
   repo: http://github.com/yraffah/yraffah.github.io
 
-# Build settings
-markdown: kramdown
 
-# Markdown Processors
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
-  input: GFM
-  
-permalinks: pretty
-excerpt_separator: <!--break-->
 
 theme: jekyll-theme-cayman
