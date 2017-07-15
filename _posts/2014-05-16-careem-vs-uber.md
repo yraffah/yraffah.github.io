@@ -27,7 +27,7 @@ Once I was in Dammam and wanted to book a car to drop me to the hotel but unfort
 
 I'm still eager to try their service but unfortunately I wasn't able to up till now. I might update this post once I do.
 <!--break-->
-<a href="{{ site.url }}/assets/careem-logo.png"><img src="{{ site.url }}/assets/careem-logo.png" alt="Careem Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
+<a href="{{ site.url }}/assets/2014/05/careem-logo.png"><img src="{{ site.url }}/assets/2014/05/careem_logo.png" alt="Careem Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
 
 ## Careem
 By the time I knew about Careem, they were already operating in Riyadh, Dammam, and just started in Jeddah that week! During my trip to Riyadh after that, I booked a car and it came within 4 minutes! [The app](https://itunes.apple.com/us/app/careem/id592978487?mt=8) showed me the car on its way to me, driver's name, and his mobile phone number. Once the car arrived, it displayed the car's license plate, which is smart!
