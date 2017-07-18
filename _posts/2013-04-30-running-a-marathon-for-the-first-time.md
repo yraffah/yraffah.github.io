@@ -17,12 +17,12 @@ After discovering I had very high levels of [low density lipoprotein](http://en.
 
 Fast forward to one and half years after that, I started practicing for the yearly half-marathon race "[Jeddah Marathon](http://jeddah-marathon.com/)" with a very enthusiastic team lead by [Ali Sheneamer](https://twitter.com/sheneamer).
 
-<a href="http://yraffah.com/assets/2013-04-marathon-training.jpg"><img src="http://yraffah.com/assets/2013-04-marathon-training-web.jpg" alt="During Jeddah Marathon trainings" width="500" style="display:block;margin:auto;" /></a>
+<a href="{{ site.url }}/files/2013-04-marathon-training.jpg"><img src="{{ site.url }}/files/2013-04-marathon-training-web.jpg" alt="During Jeddah Marathon trainings" width="500" style="display:block;margin:auto;" /></a>
 *You can see me in the bottom right photo being in the middle between [@lmnassem](https://twitter.com/lmnassem) and [@SaudKoshari](https://twitter.com/SaudKoshari).*
 
 We trained for less than a month with a schedule of 3 days a week in the beginning then intensive trainings on the last week and a half. I personally was progressing well, according to my athletic status, as you can see in the below image.
 
-<a href="http://yraffah.com/assets/2013-04-30-marathon-training.png"><img src="http://yraffah.com/assets/2013-04-30-marathon-training-web.jpg" alt="Jeddah Marathon training progress" width="500" style="display:block;margin:auto;" /></a>
+<a href="{{ site.url }}/files/2013-04-30-marathon-training.png"><img src="{{ site.url }}/files/2013-04-30-marathon-training-web.jpg" alt="Jeddah Marathon training progress" width="500" style="display:block;margin:auto;" /></a>
 
 <!--break-->
 
@@ -39,7 +39,7 @@ Finally, and that was their biggest fail. After an hour had passed in the race, 
 
 Nevertheless, I kept on running and running. Yes, I did remember the scene when [Forrest Gump's](http://en.wikipedia.org/wiki/Forrest_Gump) girlfriend was yelling at him: *"Run Forrest, Run!"*. All my energy was drone and I was worn out. I had to slow down every while. The good thing was our smart trainer, Ali[^1], took us to the last 5K of the race on our last training 5 days before the race. This gave us some insights on the area and made us more familiar with it. During the race, this was very accommodating because we were familiar with the area and we know we have less than 5K to the finish line. Personally, this was a very good motive for me and it kept me pushing myself until I saw the finish line.
 
-<a href="http://yraffah.com/assets/2013-04-30-mobily-marathon.jpg"><img src="http://yraffah.com/assets/2013-04-30-mobily-marathon.jpg" alt="At the start line. I'm on the front row third one from left" width="500" style="display:block;margin:auto;" /></a>
+<a href="{{ site.url }}/files/2013-04-30-mobily-marathon.jpg"><img src="{{ site.url }}/files/2013-04-30-mobily-marathon.jpg" alt="At the start line. I'm on the front row third one from left" width="500" style="display:block;margin:auto;" /></a>
 
 ## The finish line
 Yes! I made it to the finish line and just completed my first half marathon ever in my life. What an unforgettable experience this is. It was challenging, inspiring, exhausting, and I got to know and meet a lot of great, exciting, and energetic gentlemen.

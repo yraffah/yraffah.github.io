@@ -15,7 +15,7 @@ sitemap:
 
 <p style="direction:rtl;">العدسات بشكل عام بها رموز و أرقام والتي غالبا ما تكون مُبهمة للبعض و خصوصا المبتدئين. لذلك أحببت أن أشارككم في فك بعض أهم هذه الرموز علما أنني قد تحدثت <a href="{% post_url 2007-04-16-types-of-lenses %}">سابقا عن الأرقام الموجودة على العدسات</a></p>
 
-<p style="direction:rtl;">ملاحظة: يمكنكم <a href="{{ base.url }}/assets/files/Nikon-nikkor-lens-acronym-guide.pdf">تحميل نسخة PDF</a> لهذه التدوينة حتى تحتفظوا بها إن أردتم ذلك.</p>
+<p style="direction:rtl;">ملاحظة: يمكنكم <a href="{{ base.url }}/files/files/Nikon-nikkor-lens-acronym-guide.pdf">تحميل نسخة PDF</a> لهذه التدوينة حتى تحتفظوا بها إن أردتم ذلك.</p>
 
 <p style="direction:rtl;"><strong>D</strong>: تعني <em>Distance</em> أي المسافة. هذه العدسات تقوم بقياس المسافة بين الهدف والكاميرا عند قياس الـ <em>Metering</em>. كما أن بها قرص لفتحة العدسة والذي يتطلب إحكام غلقه عن طريق وضعه في حالة <em>Lock</em>.</p>
 <!--break-->

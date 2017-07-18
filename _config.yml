@@ -1,96 +1,121 @@
-# Where things are
-source:       .
-destination:  ./_site
-plugins_dir:  ./_plugins
-layouts_dir:  ./_layouts
-data_dir:     ./_data
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+name: Yousef Raffa's Blog
+title: A Jeeper in Saudi
+email: yraffah@gmail.com
+description: "I write about Jeeps, entrepreneurship, Mac, web, photography, geocaching, and amateur radio (HZ1YR) in Saudi"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yraffah.com" # the base hostname & protocol for your site, e.g. http://example.com
+copyrights: "&copy; 2015 Yousef Raffa. All rights reserved."
+
 includes_dir: ./_includes
-collections:  null
+
+twitter_username: yraffah
+github_username:  yraffah
+
+# Disqus
+disqus:
+  shortname: yraffa
+
+# Google Analytics
+google_analytics: UA-51309461-1
+
+# Build settings
+markdown: kramdown
+#theme: minima
+#theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+paginate: 5
+paginate_path: /page:num
+timezone: AST
+excerpt_separator: <!--break-->
+permalinks: pretty
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+
+# -------------
+# Below are my old _config.yml and I have merged some of it to the upper section
+# -------------
+
+# Where things are
+#source:       .
+#destination:  ./_site
+#plugins_dir:  ./_plugins
+#layouts_dir:  ./_layouts
+#data_dir:     ./_data
+
+#collections:  null
 
 # Handling Reading
-safe:         false
-include: ['.htaccess']
-exclude: [Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter: false
+#safe:         false
+#include: ['.htaccess']
+#keep_files:   [".git", ".svn"]
+#encoding:     "utf-8"
+#markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#strict_front_matter: false
 
 
 # Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      false
-unpublished: false
+#show_drafts: null
+#limit_posts: 0
+#future:      false
+#unpublished: false
 
 # Plugins
-whitelist: []
-plugins: [jekyll-paginate]
+#plugins: [jekyll-paginate, jekyll-sitemap]
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: <!--break-->
-incremental: false
+#markdown: kramdown
+#highlighter: rouge
+#lsi: false
 
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "" # does not include hostname
-show_dir_listing: false
-
-# Outputting
-#permalink:     date
-permalinks: pretty
-paginate_path: /page:num
-timezone: AST
-
-quite:     false
-verbose:   false
-defaults:  []
-
-liquid:
-  error_mode: warn
 
 # Markdown Processors
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  input: GFM
-
-# Site settings
-name: Yousef Raffa's Blog
-title: A Jeeper in Saudi
-tagline: "A Jeeper in Saudi"
-description: "I write about Jeeps, entrepreneurship, Mac, web, photography, geocaching, and amateur radio (HZ1YR) in Saudi"
-copyrights: "&copy; 2015 Yousef Raffa. All rights reserved."
-baseurl: ""
-url: "http://yraffah.com"
-paginate: 5
-detach: false
-
-author:
-  name: "Yousef Raffa"
-  email: "YRaffah@gmail.com"
-  url: https://twitter.com/yraffah
-  
-#gems:
-#  - jekyll-redirect-from
-  
-# Custom vars
-#version: 3.5.0
-
-# Username for Github and Twitter
-username: yraffah
-github:
-  repo: http://github.com/yraffah/yraffah.github.io
-
-
-
-theme: jekyll-theme-cayman
+#kramdown:
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  smart_quotes: lsquo,rsquo,ldquo,rdquo
+#  enable_coderay: false
+#  input: GFM
+ 

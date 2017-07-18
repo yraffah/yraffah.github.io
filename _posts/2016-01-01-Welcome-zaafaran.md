@@ -97,4 +97,4 @@ Here is a list of items I bought either to fix broken things or upgdare certain 
 
 
 [^1]: Yes, we go off-roading during winter season as the weather cools a lot and we can enjoy getting warm near the fire. However, in summer, the desert gets VERY hot and you get to encounter with many reptiles and insects, that you could've avoided in winter.
-[zaafaran]: {{ site.url }}/assets/2016/01/welcomezaafaran.png "Za'afaran at home"
+[zaafaran]: {{ site.url }}/files/2016/01/welcomezaafaran.png "Za'afaran at home"

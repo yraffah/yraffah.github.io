@@ -16,7 +16,7 @@ sitemap:
 
 Personal chauffeur services is becoming an interesting need and the market is certainly increasing. You might think you don't need one as long as you have a car, well, guess what, you are *wrong!*. I personally have a car, yet, I needed a decent, clean, odor-free, and available car to drop me to or from an airport.
 
-<a href="{{ site.url }}/assets/uber-logo.jpg"><img src="{{ site.url }}/assets/uber-logo.jpg" alt="Uber Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
+<a href="{{ site.url }}/files/uber-logo.jpg"><img src="{{ site.url }}/files/uber-logo.jpg" alt="Uber Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
 
 ## Uber
 Initially [Uber](https://www.uber.com/) was not available in Saudi Arabia until last month. This gave [Careem](https://www.careem.com) a competitive advantage of being introduced first in the enormous Saudi market.
@@ -27,7 +27,7 @@ Once I was in Dammam and wanted to book a car to drop me to the hotel but unfort
 
 I'm still eager to try their service but unfortunately I wasn't able to up till now. I might update this post once I do.
 <!--break-->
-<a href="{{ site.url }}/assets/2014/05/careem-logo.png"><img src="{{ site.url }}/assets/2014/05/careem_logo.png" alt="Careem Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
+<a href="{{ site.url }}/files/2014/05/careem-logo.png"><img src="{{ site.url }}/files/2014/05/careem_logo.png" alt="Careem Logo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" /></a>
 
 ## Careem
 By the time I knew about Careem, they were already operating in Riyadh, Dammam, and just started in Jeddah that week! During my trip to Riyadh after that, I booked a car and it came within 4 minutes! [The app](https://itunes.apple.com/us/app/careem/id592978487?mt=8) showed me the car on its way to me, driver's name, and his mobile phone number. Once the car arrived, it displayed the car's license plate, which is smart!
@@ -39,7 +39,7 @@ If you can't wait to try it, you can [signup now](http://www.careem.com/signup/D
 #### Drivers
 I was thrilled with the speed of the service. Although this might be due to the fact that a driver was luckily nearby, yet, my first impression was very positive. Add to that the driving being very polite, well educated, and friendly. He just made the whole experience way better.
 
-<a href="{{ site.url }}/assets/careem-prize.jpg"><img src="{{ site.url }}/assets/careem-prize.jpg" alt="I won Careem's second prize and they displayed my selfie photo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" />*A selfie with Hassan, my first Careem driver. Thank you for the prize, Careem. Talk about customer service?*</a>
+<a href="{{ site.url }}/files/careem-prize.jpg"><img src="{{ site.url }}/files/careem-prize.jpg" alt="I won Careem's second prize and they displayed my selfie photo" width="300" style="float:right;margin-left:10px;margin-bottom:10px;" />*A selfie with Hassan, my first Careem driver. Thank you for the prize, Careem. Talk about customer service?*</a>
 
 
 #### Cars

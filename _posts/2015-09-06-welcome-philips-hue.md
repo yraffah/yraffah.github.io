@@ -13,7 +13,7 @@ sitemap:
   exclude: 'no'
 ---
 
-![First Hue Test]({{ site.url }}/assets/2015/09/philips-hue-first-test.png)
+![First Hue Test]({{ site.url }}/files/2015/09/philips-hue-first-test.png)
 *Here is a photo of my first trial but the Go was not showing in this photo.*
 
 # Watching movies at home

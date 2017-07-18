@@ -18,14 +18,14 @@ I recently had the chance to visit a detoxing specialist in Turkey during a quic
 
 ## The first blood sample
 Ahmed's blood sample (*below*) looked really good (Ma sha'a Allah). The specialist said it was perfect, smooth, and just couldn't be better. As you can see from the photo, the red blood cells are firmly round and has room to roam around and flow. They look healthy or shall I say "Happy :)". From my personal observation, Ahmed is a normal person eating a regular diet, yet, he tries to avoid fried food if possible.
-![{{ site.url }}/assets/2014-07-14-IMG_4433-thumb.jpg]({{ site.url }}/assets/2014-07-14-IMG_4433-full.jpg)
+![{{ site.url }}/files/2014-07-14-IMG_4433-thumb.jpg]({{ site.url }}/files/2014-07-14-IMG_4433-full.jpg)
 
 <!--break-->
  
 ## The second blood sample
 Some of you might know I have high levels of low density lipoprotein (LDL Cholesterol), as I explained earlier in my [marathon post](/running/2013/04/30/running-a-marathon-for-the-first-time.html). Therefore, I expected my blood sample to be a little bit different than Ahmed's. That feeling started to build up until I became worried. The minute she saw my blood cells she started to re-adjust the focus of the microscope, I knew something was wrong! It took her a good minute or two before displaying it on the big TV screen and that is when I got **shocked** to say the least.
 
-![{{ site.url }}/assets/2014-07-14-IMG_4434-thumb.jpg]({{ site.url }}/assets/2014-07-14-IMG_4434-full.jpg)
+![{{ site.url }}/files/2014-07-14-IMG_4434-thumb.jpg]({{ site.url }}/files/2014-07-14-IMG_4434-full.jpg)
 As you can see from my blood sample photo, the cells are stacked and forming a worm-like shape! This photo had me drop my jaw and be speechless for few seconds until she interrupted me by saying that I'm having too much *animal protein*, and switching to a better diet can help a lot and probably cure that.
 
 She recommended switching to a vegan (preferably raw-vegan) diet for 21 days and that should make a good difference. She started explaining how she herself had overweight issues and it was always a tough time to get out of bed. However, that was all history and non-existing after switching to a vegan diet. All her back-pain issues had disappeared and now she jumps out of bed full of energy in the morning. Can you jump out of bed tomorrow morning full of energy?!
